@@ -1,4 +1,8 @@
 {
+ "websocket": {
+    "url": "wss://api.tenclass.net/xiaozhi/v1/"
+  },
+  
   "firmware": {
     "version": "2.4.3",
     "url": "https://burenkovs.github.io/sixseven_fw/xiaozhi.bin"
