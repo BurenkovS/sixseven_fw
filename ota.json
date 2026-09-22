@@ -1,6 +1,7 @@
 {
  "websocket": {
-    "url": "wss://api.tenclass.net/xiaozhi/v1/"
+    /*"url": "wss://api.tenclass.net/xiaozhi/v1/"*/
+   "url": ws://192.168.1.44:8000/xiaozhi/v1/
   },
   
   "firmware": {
